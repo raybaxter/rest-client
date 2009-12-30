@@ -1,3 +1,8 @@
+
+== This fork is no longer maintained.  Please see the new official fork at: http://github.com/archiloque/rest-client
+
+--------------------------------------------------------------------
+
 = REST Client -- simple DSL for accessing REST resources
 
 A simple REST client for Ruby, inspired by the Sinatra's microframework style
